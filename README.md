@@ -15,3 +15,9 @@ Running descriptive statistics and checking for null values
 ## Diving the data  into X and y sets and standardizing the data
 
 splitting the data into train and test data
+
+Importing the KneighborsClassifier and training the  data
+
+Using prediction model to test the data, and calculate the accuracy score
+
+Displayed the confusion matrix and classification report
